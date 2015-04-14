@@ -1,0 +1,89 @@
+/*this is a comment in css*/
+
+/*center the h1 tag*/
+h1 {
+	text-align: center;
+	color: blue;
+}
+
+p {
+	font-size: 50px;
+	color: white;
+	background-color: rgba(28, 219, 225, .4);
+	padding: 40px;
+}
+
+.forest1 {
+	background-image: url("../img/forest1.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover ;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	width: 600px;
+	min-height: 750px;
+}
+
+.accept {
+	float: left;
+	background-color: white;
+	width: 200px;
+	min-height: 300px;
+}
+
+.reject {
+	float: right;
+	background-color:#8A011A;
+	width: 200px;
+	min-height: 300px;
+}
+
+.other {
+	float: left;
+	background-color: black;
+	margin-top: 400px;
+	margin-right: 200px;
+}
+
+.arscreen {
+	background-image: url("../img/arscreen.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover ;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.animation {
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.heart {
+	margin-top: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.forest1boy {
+	background-image: url("../img/forest1boy_new.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover ;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+.RealEnding_1 {
+	background-image: url("../img/RealEnding_1.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover ;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}

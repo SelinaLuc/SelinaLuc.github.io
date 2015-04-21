@@ -3,7 +3,7 @@
 
 /* 1. Write styles for the body tag to give your page a background color, image or texture. */
 html {
-	background: url("../images/snowflake_new.jpg") no-repeat center center fixed; 
+	background: url("../images/SkyDiving.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover ;
 	-o-background-size: cover;

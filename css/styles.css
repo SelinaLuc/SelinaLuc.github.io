@@ -1,12 +1,12 @@
  /***** global styles *****/
 
 a:link {
-	color: dimgray;
+	color: #FFC0CB;
 	text-decoration: none;
 }
 
 a:hover {
-	color: darkslategray;
+	color: #FFB6C1;
 	text-decoration: underline;
 }
 
@@ -19,7 +19,7 @@ a:hover {
 
 header {
 	width: 100%;
-	background-color: lightgrey;
+	background-color: #FFB6C1;
 	height: 4.25em;/* must match the height of the social media icons  */
 }
 
@@ -59,6 +59,7 @@ header:after {
 
 .student-description {
 	margin-right: 2.5%;
+	color: #FFC0CB;
 }
 
 
